@@ -3,7 +3,7 @@
 By: Nikolaus Zufall
 
 Used to parse log files into an empty database
-ReadMe for server can be found in fps-logs-server
+ReadMe for server can be found in fps-server
 
 To use:
 1. Have desire JSON files in directory
