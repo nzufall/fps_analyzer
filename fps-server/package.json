@@ -1,0 +1,30 @@
+{
+  "name": "fps-logs-server",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-scripts": "2.1.1",
+    "sqlite3": "^4.0.4"
+  },
+  "scripts": {
+    "prestart": "npm run build",
+    "start": "node ./src/server/server.js",
+    "build": "react-scripts build",
+    "test": "mocha --recursive --exit"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "supertest": "^3.3.0"
+  }
+}
