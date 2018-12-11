@@ -1,0 +1,8104 @@
+{
+	"collections" : [
+
+		{
+
+			"datetime" : "2014-05-30 02:10:06.596557628 UTC",
+
+			"seed" : 2066186182,
+
+			"act" : "A4",
+
+			"world" : "a4dun_Garden_of_Hope_Random",
+
+			"scene" : "a4dun_garden_level_02_E03_S05",
+
+			"quest" : "Heaven_HeavensFall",
+
+			"quest_step" : -1,
+
+			"location" : { "x" : 2958.750000, "y" : 2421.250000, "z" : -29.900002 },
+
+			"class" : "Witchdoctor",
+
+			"samples" : [
+
+				{
+
+					"datetime" : "2014-05-30 02:10:06.628712706 UTC",
+
+					"fps" :   3.81,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 540, 1440],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 273,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:06.647995533 UTC",
+
+					"fps" :  38.82,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 546, 1440],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 277,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:06.673834115 UTC",
+
+					"fps" :  38.26,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 554, 1440],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 279,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:06.697457949 UTC",
+
+					"fps" :  38.72,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 558, 1440],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 275,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:06.724974330 UTC",
+
+					"fps" :  38.70,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 550, 1440],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 266,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:06.749680966 UTC",
+
+					"fps" :  38.23,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 532, 1440],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 261,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:06.776144075 UTC",
+
+					"fps" :  38.80,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 522, 1440],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 269,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:06.802026204 UTC",
+
+					"fps" :  38.68,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 538, 1440],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 273,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:06.827906144 UTC",
+
+					"fps" :  38.74,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 546, 1440],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 277,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:06.854433483 UTC",
+
+					"fps" :  39.00,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 554, 1440],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 280,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:06.880354042 UTC",
+
+					"fps" :  38.72,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 560, 1440],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 278,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:06.906223218 UTC",
+
+					"fps" :  38.98,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 556, 1440],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 277,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:06.932238401 UTC",
+
+					"fps" :  39.07,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 554, 1440],
+
+					"num_particle_systems" : 64,
+
+					"num_particles" : 278,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:06.956013680 UTC",
+
+					"fps" :  38.85,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 556, 1440],
+
+					"num_particle_systems" : 66,
+
+					"num_particles" : 265,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:06.984488686 UTC",
+
+					"fps" :  38.90,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 530, 1630],
+
+					"num_particle_systems" : 66,
+
+					"num_particles" : 268,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.008000503 UTC",
+
+					"fps" :  38.69,
+
+					"batches" : [130, 43, 12, 28, 38, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 536, 1630],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 264,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.037391779 UTC",
+
+					"fps" :  38.93,
+
+					"batches" : [130, 39, 12, 28, 37, 8],
+
+					"tris" : [180500, 1620, 24, 17679, 528, 1472],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 260,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.063312581 UTC",
+
+					"fps" :  38.95,
+
+					"batches" : [130, 39, 12, 28, 36, 8],
+
+					"tris" : [180500, 1620, 24, 17679, 520, 1472],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 260,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.091433687 UTC",
+
+					"fps" :  38.51,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 520, 1472],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 265,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.117018372 UTC",
+
+					"fps" :  38.82,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 530, 1472],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 266,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.138678604 UTC",
+
+					"fps" :  38.64,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 532, 1472],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 270,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.168507380 UTC",
+
+					"fps" :  31.58,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 540, 1472],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 275,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.188696349 UTC",
+
+					"fps" :  49.27,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 550, 1472],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 272,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.216712256 UTC",
+
+					"fps" :  39.29,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 544, 1472],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 269,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.239924114 UTC",
+
+					"fps" :  38.81,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 538, 1472],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 273,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.265395832 UTC",
+
+					"fps" :  38.93,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 546, 1472],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 274,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.295138345 UTC",
+
+					"fps" :  33.90,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 548, 1472],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 275,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.318167610 UTC",
+
+					"fps" :  44.99,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 550, 1472],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 281,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.344290769 UTC",
+
+					"fps" :  39.16,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 562, 1472],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 280,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.370622751 UTC",
+
+					"fps" :  38.62,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 560, 1472],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 282,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.394676340 UTC",
+
+					"fps" :  38.69,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 564, 1472],
+
+					"num_particle_systems" : 67,
+
+					"num_particles" : 285,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.420863013 UTC",
+
+					"fps" :  38.84,
+
+					"batches" : [130, 43, 12, 28, 39, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 566, 1702],
+
+					"num_particle_systems" : 67,
+
+					"num_particles" : 284,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.445549058 UTC",
+
+					"fps" :  38.83,
+
+					"batches" : [130, 43, 12, 28, 39, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 568, 1702],
+
+					"num_particle_systems" : 67,
+
+					"num_particles" : 279,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.471983218 UTC",
+
+					"fps" :  38.96,
+
+					"batches" : [130, 43, 12, 28, 39, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 558, 1702],
+
+					"num_particle_systems" : 67,
+
+					"num_particles" : 285,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.497776073 UTC",
+
+					"fps" :  38.40,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 570, 1702],
+
+					"num_particle_systems" : 66,
+
+					"num_particles" : 287,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.527693587 UTC",
+
+					"fps" :  38.98,
+
+					"batches" : [130, 43, 12, 28, 38, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 574, 1702],
+
+					"num_particle_systems" : 66,
+
+					"num_particles" : 291,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.554644193 UTC",
+
+					"fps" :  38.84,
+
+					"batches" : [130, 43, 12, 28, 39, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 582, 1702],
+
+					"num_particle_systems" : 66,
+
+					"num_particles" : 294,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.580593430 UTC",
+
+					"fps" :  38.27,
+
+					"batches" : [130, 43, 12, 28, 39, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 588, 1702],
+
+					"num_particle_systems" : 66,
+
+					"num_particles" : 282,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.605222091 UTC",
+
+					"fps" :  38.94,
+
+					"batches" : [130, 43, 12, 28, 38, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 564, 1702],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 278,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.630223660 UTC",
+
+					"fps" :  38.91,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 556, 1544],
+
+					"num_particle_systems" : 64,
+
+					"num_particles" : 279,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.656565332 UTC",
+
+					"fps" :  38.82,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 558, 1544],
+
+					"num_particle_systems" : 64,
+
+					"num_particles" : 268,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.682048047 UTC",
+
+					"fps" :  38.93,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 536, 1544],
+
+					"num_particle_systems" : 64,
+
+					"num_particles" : 265,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.707671453 UTC",
+
+					"fps" :  39.03,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 530, 1544],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 270,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.733146882 UTC",
+
+					"fps" :  38.66,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 540, 1544],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 270,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.759753792 UTC",
+
+					"fps" :  38.73,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 540, 1544],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 272,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.780632232 UTC",
+
+					"fps" :  39.13,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 544, 1544],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 277,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.808489687 UTC",
+
+					"fps" :  39.01,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 554, 1544],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 277,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.833449105 UTC",
+
+					"fps" :  38.86,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 554, 1544],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 272,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.858929522 UTC",
+
+					"fps" :  38.03,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 544, 1544],
+
+					"num_particle_systems" : 64,
+
+					"num_particles" : 271,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.883384529 UTC",
+
+					"fps" :  39.93,
+
+					"batches" : [130, 43, 12, 28, 38, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 542, 1758],
+
+					"num_particle_systems" : 64,
+
+					"num_particles" : 277,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.910125797 UTC",
+
+					"fps" :  38.45,
+
+					"batches" : [130, 43, 12, 28, 41, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 554, 1758],
+
+					"num_particle_systems" : 64,
+
+					"num_particles" : 285,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.935827439 UTC",
+
+					"fps" :  38.93,
+
+					"batches" : [130, 43, 12, 28, 41, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 570, 1758],
+
+					"num_particle_systems" : 64,
+
+					"num_particles" : 291,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.961384610 UTC",
+
+					"fps" :  38.61,
+
+					"batches" : [130, 43, 12, 28, 41, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 582, 1758],
+
+					"num_particle_systems" : 64,
+
+					"num_particles" : 293,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:07.988101584 UTC",
+
+					"fps" :  38.45,
+
+					"batches" : [130, 43, 12, 28, 41, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 586, 1758],
+
+					"num_particle_systems" : 64,
+
+					"num_particles" : 287,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.018045559 UTC",
+
+					"fps" :  38.87,
+
+					"batches" : [130, 43, 12, 28, 40, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 574, 1758],
+
+					"num_particle_systems" : 63,
+
+					"num_particles" : 286,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.043938138 UTC",
+
+					"fps" :  38.82,
+
+					"batches" : [130, 39, 12, 28, 39, 8],
+
+					"tris" : [180500, 1620, 24, 17679, 572, 1560],
+
+					"num_particle_systems" : 63,
+
+					"num_particles" : 290,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.070311741 UTC",
+
+					"fps" :  39.00,
+
+					"batches" : [130, 39, 12, 28, 40, 8],
+
+					"tris" : [180500, 1620, 24, 17679, 580, 1560],
+
+					"num_particle_systems" : 63,
+
+					"num_particles" : 284,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.096383024 UTC",
+
+					"fps" :  37.79,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 568, 1560],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 277,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.119897195 UTC",
+
+					"fps" :  39.88,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 554, 1560],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 282,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.141711893 UTC",
+
+					"fps" :  38.84,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 564, 1560],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 280,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.167994933 UTC",
+
+					"fps" :  38.78,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 560, 1560],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 277,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.196124920 UTC",
+
+					"fps" :  38.67,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 554, 1560],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 277,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.218791998 UTC",
+
+					"fps" :  38.92,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 554, 1560],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 288,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.244285890 UTC",
+
+					"fps" :  38.80,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 576, 1560],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 283,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.272709482 UTC",
+
+					"fps" :  38.99,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 566, 1560],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 280,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.297195350 UTC",
+
+					"fps" :  38.86,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 560, 1560],
+
+					"num_particle_systems" : 61,
+
+					"num_particles" : 281,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.323574691 UTC",
+
+					"fps" :  37.17,
+
+					"batches" : [130, 43, 12, 28, 39, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 558, 1750],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 272,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.351507270 UTC",
+
+					"fps" :  40.03,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 544, 1528],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 275,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.374013031 UTC",
+
+					"fps" :  38.69,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 550, 1528],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 279,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.401612889 UTC",
+
+					"fps" :  38.22,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 558, 1832],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 281,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.425879767 UTC",
+
+					"fps" :  38.66,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 562, 1832],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 280,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.451876524 UTC",
+
+					"fps" :  38.73,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 560, 1832],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 275,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.477557311 UTC",
+
+					"fps" :  38.71,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 550, 1832],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 273,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.505690665 UTC",
+
+					"fps" :  39.02,
+
+					"batches" : [130, 43, 12, 28, 36, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 546, 1832],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 272,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.532826038 UTC",
+
+					"fps" :  38.94,
+
+					"batches" : [130, 43, 12, 28, 40, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 544, 1832],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 270,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.558870400 UTC",
+
+					"fps" :  37.76,
+
+					"batches" : [130, 43, 12, 28, 38, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 540, 1832],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 275,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.584396482 UTC",
+
+					"fps" :  39.65,
+
+					"batches" : [130, 43, 12, 28, 36, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 550, 1832],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 278,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.610814003 UTC",
+
+					"fps" :  38.79,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 556, 1832],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 275,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.636271880 UTC",
+
+					"fps" :  38.78,
+
+					"batches" : [130, 43, 12, 28, 38, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 550, 1832],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 278,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.657837269 UTC",
+
+					"fps" :  38.76,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 556, 1528],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 275,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.683630619 UTC",
+
+					"fps" :  38.66,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 550, 1528],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 274,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.710305537 UTC",
+
+					"fps" :  38.69,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 548, 1528],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 284,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.737778613 UTC",
+
+					"fps" :  38.32,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 568, 1528],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 272,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.762988605 UTC",
+
+					"fps" :  38.51,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 544, 1600],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 278,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.791482554 UTC",
+
+					"fps" :  38.52,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 556, 1600],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 279,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.813573334 UTC",
+
+					"fps" :  38.23,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 558, 1600],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 276,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.839950241 UTC",
+
+					"fps" :  38.84,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 552, 1600],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 276,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.865435189 UTC",
+
+					"fps" :  38.72,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 552, 1600],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 280,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.895687186 UTC",
+
+					"fps" :  38.54,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 560, 1600],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 277,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.921199500 UTC",
+
+					"fps" :  38.84,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 554, 1600],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 275,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.948583086 UTC",
+
+					"fps" :  38.74,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 550, 1600],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 279,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.974312197 UTC",
+
+					"fps" :  37.89,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 558, 1600],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 282,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:08.996503756 UTC",
+
+					"fps" :  39.66,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 564, 1600],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 283,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.021285490 UTC",
+
+					"fps" :  38.65,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 566, 1600],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 285,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.046447445 UTC",
+
+					"fps" :  38.79,
+
+					"batches" : [130, 39, 12, 28, 38, 8],
+
+					"tris" : [180500, 1620, 24, 17679, 570, 1600],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 281,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.073634597 UTC",
+
+					"fps" :  38.37,
+
+					"batches" : [130, 39, 12, 28, 38, 8],
+
+					"tris" : [180500, 1620, 24, 17679, 562, 1600],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 282,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.097502823 UTC",
+
+					"fps" :  38.67,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 564, 1600],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 282,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.123867874 UTC",
+
+					"fps" :  38.84,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 564, 1600],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 277,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.153651805 UTC",
+
+					"fps" :  38.06,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 554, 1600],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 271,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.177107196 UTC",
+
+					"fps" :  38.80,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 542, 1600],
+
+					"num_particle_systems" : 61,
+
+					"num_particles" : 278,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.203629518 UTC",
+
+					"fps" :  38.65,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 552, 1822],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 282,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.228458092 UTC",
+
+					"fps" :  37.10,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 564, 1822],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 279,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.253811531 UTC",
+
+					"fps" :  39.67,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 558, 1822],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 276,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.279500284 UTC",
+
+					"fps" :  38.51,
+
+					"batches" : [130, 43, 12, 28, 35, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 552, 1822],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 288,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.306214856 UTC",
+
+					"fps" :  38.36,
+
+					"batches" : [130, 43, 12, 28, 38, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 576, 1822],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 284,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.331762741 UTC",
+
+					"fps" :  38.63,
+
+					"batches" : [130, 43, 12, 28, 38, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 568, 1822],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 282,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.357997963 UTC",
+
+					"fps" :  38.54,
+
+					"batches" : [130, 43, 12, 28, 38, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 564, 1822],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 271,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.388774558 UTC",
+
+					"fps" :  38.41,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 542, 1664],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 277,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.416399193 UTC",
+
+					"fps" :  38.74,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 554, 1664],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 280,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.440218901 UTC",
+
+					"fps" :  38.48,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 560, 1664],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 282,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.466148814 UTC",
+
+					"fps" :  37.75,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 564, 1664],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 279,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.493555825 UTC",
+
+					"fps" :  37.60,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 558, 1664],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 280,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.519120366 UTC",
+
+					"fps" :  37.81,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 560, 1664],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 276,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.546248561 UTC",
+
+					"fps" :  37.98,
+
+					"batches" : [130, 43, 12, 28, 35, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 552, 1664],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 278,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.574337565 UTC",
+
+					"fps" :  37.37,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 556, 1664],
+
+					"num_particle_systems" : 58,
+
+					"num_particles" : 270,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.599310971 UTC",
+
+					"fps" :  37.91,
+
+					"batches" : [130, 43, 12, 28, 34, 7],
+
+					"tris" : [180500, 1626, 24, 17679, 540, 1442],
+
+					"num_particle_systems" : 58,
+
+					"num_particles" : 274,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.625957646 UTC",
+
+					"fps" :  37.72,
+
+					"batches" : [130, 43, 12, 28, 36, 7],
+
+					"tris" : [180500, 1626, 24, 17679, 548, 1442],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 277,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.647629425 UTC",
+
+					"fps" :  37.18,
+
+					"batches" : [130, 43, 12, 28, 35, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 550, 1592],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 274,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.675054881 UTC",
+
+					"fps" :  37.87,
+
+					"batches" : [130, 43, 12, 28, 34, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 548, 1592],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 274,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.703062476 UTC",
+
+					"fps" :  37.98,
+
+					"batches" : [130, 43, 12, 28, 35, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 548, 1592],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 279,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.727523991 UTC",
+
+					"fps" :  37.74,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 558, 1592],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 279,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.754181735 UTC",
+
+					"fps" :  37.82,
+
+					"batches" : [130, 43, 12, 28, 34, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 558, 1592],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 281,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.782150785 UTC",
+
+					"fps" :  37.85,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 562, 1592],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 275,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.808375064 UTC",
+
+					"fps" :  38.08,
+
+					"batches" : [130, 43, 12, 28, 35, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 550, 1592],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 278,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.836426555 UTC",
+
+					"fps" :  38.22,
+
+					"batches" : [130, 43, 12, 28, 35, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 556, 1592],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 274,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.858789383 UTC",
+
+					"fps" :  37.82,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 548, 1592],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 270,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.885842755 UTC",
+
+					"fps" :  38.17,
+
+					"batches" : [130, 43, 12, 28, 34, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 540, 1592],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 266,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.912003949 UTC",
+
+					"fps" :  38.03,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 532, 1592],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 275,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.938080245 UTC",
+
+					"fps" :  38.92,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 550, 1592],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 266,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.962252358 UTC",
+
+					"fps" :  38.98,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 532, 1592],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 264,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:09.990449872 UTC",
+
+					"fps" :  38.61,
+
+					"batches" : [130, 43, 12, 28, 35, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 528, 1592],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 265,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.019139104 UTC",
+
+					"fps" :  39.00,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 530, 1896],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 272,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.044860785 UTC",
+
+					"fps" :  37.10,
+
+					"batches" : [130, 39, 12, 28, 39, 9],
+
+					"tris" : [180500, 1620, 24, 17679, 544, 1896],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 280,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.070099962 UTC",
+
+					"fps" :  40.33,
+
+					"batches" : [130, 39, 12, 28, 38, 9],
+
+					"tris" : [180500, 1620, 24, 17679, 560, 1896],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 280,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.096449693 UTC",
+
+					"fps" :  38.63,
+
+					"batches" : [130, 43, 12, 28, 39, 10],
+
+					"tris" : [180500, 1626, 24, 17679, 560, 2118],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 280,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.122604234 UTC",
+
+					"fps" :  38.92,
+
+					"batches" : [130, 43, 12, 28, 39, 10],
+
+					"tris" : [180500, 1626, 24, 17679, 560, 2118],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 282,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.147468244 UTC",
+
+					"fps" :  38.96,
+
+					"batches" : [130, 43, 12, 28, 39, 10],
+
+					"tris" : [180500, 1626, 24, 17679, 564, 2118],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 288,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.173716829 UTC",
+
+					"fps" :  38.71,
+
+					"batches" : [130, 43, 12, 28, 40, 10],
+
+					"tris" : [180500, 1626, 24, 17679, 576, 2118],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 287,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.199091445 UTC",
+
+					"fps" :  38.60,
+
+					"batches" : [130, 43, 12, 28, 39, 10],
+
+					"tris" : [180500, 1626, 24, 17679, 574, 2118],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 280,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.227357677 UTC",
+
+					"fps" :  38.66,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 560, 1952],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 281,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.250966480 UTC",
+
+					"fps" :  38.77,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 562, 1648],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 281,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.276940773 UTC",
+
+					"fps" :  37.41,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 562, 1648],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 284,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.302121858 UTC",
+
+					"fps" :  40.24,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 568, 1648],
+
+					"num_particle_systems" : 59,
+
+					"num_particles" : 276,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.328764588 UTC",
+
+					"fps" :  38.70,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 552, 1648],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 280,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.353825893 UTC",
+
+					"fps" :  38.80,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 560, 1648],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 279,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.380249126 UTC",
+
+					"fps" :  38.81,
+
+					"batches" : [130, 43, 12, 29, 39, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 558, 1648],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 271,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.402124367 UTC",
+
+					"fps" :  38.40,
+
+					"batches" : [130, 43, 12, 29, 38, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 542, 1648],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 284,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.427370531 UTC",
+
+					"fps" :  38.53,
+
+					"batches" : [130, 43, 12, 29, 39, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 568, 1648],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 280,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.453772783 UTC",
+
+					"fps" :  38.48,
+
+					"batches" : [130, 43, 12, 29, 38, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 560, 1648],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 286,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.481079923 UTC",
+
+					"fps" :  38.21,
+
+					"batches" : [130, 43, 12, 29, 40, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 572, 1648],
+
+					"num_particle_systems" : 60,
+
+					"num_particles" : 281,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.506019778 UTC",
+
+					"fps" :  38.53,
+
+					"batches" : [130, 43, 12, 29, 39, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 562, 1648],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 292,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.536105981 UTC",
+
+					"fps" :  38.21,
+
+					"batches" : [130, 43, 12, 29, 39, 9],
+
+					"tris" : [180500, 1626, 24, 19455, 580, 1806],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 291,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.563346898 UTC",
+
+					"fps" :  38.73,
+
+					"batches" : [130, 43, 12, 29, 38, 9],
+
+					"tris" : [180500, 1626, 24, 19455, 582, 1806],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 297,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.588898181 UTC",
+
+					"fps" :  38.43,
+
+					"batches" : [130, 43, 12, 29, 39, 9],
+
+					"tris" : [180500, 1626, 24, 19455, 594, 1806],
+
+					"num_particle_systems" : 61,
+
+					"num_particles" : 287,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.614825175 UTC",
+
+					"fps" :  38.67,
+
+					"batches" : [130, 43, 12, 29, 37, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 574, 1616],
+
+					"num_particle_systems" : 61,
+
+					"num_particles" : 286,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.636506929 UTC",
+
+					"fps" :  38.41,
+
+					"batches" : [130, 43, 12, 29, 36, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 572, 1616],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 294,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.663512663 UTC",
+
+					"fps" :  38.32,
+
+					"batches" : [130, 43, 12, 29, 38, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 588, 1616],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 302,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.689907140 UTC",
+
+					"fps" :  38.25,
+
+					"batches" : [130, 43, 12, 30, 40, 8],
+
+					"tris" : [180500, 1626, 24, 21231, 604, 1616],
+
+					"num_particle_systems" : 61,
+
+					"num_particles" : 312,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.716344842 UTC",
+
+					"fps" :  37.28,
+
+					"batches" : [130, 43, 12, 30, 40, 8],
+
+					"tris" : [180500, 1626, 24, 21231, 624, 1616],
+
+					"num_particle_systems" : 61,
+
+					"num_particles" : 310,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.741270976 UTC",
+
+					"fps" :  38.93,
+
+					"batches" : [130, 43, 12, 29, 38, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 620, 1616],
+
+					"num_particle_systems" : 61,
+
+					"num_particles" : 313,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.766616423 UTC",
+
+					"fps" :  37.86,
+
+					"batches" : [130, 43, 12, 29, 40, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 626, 1616],
+
+					"num_particle_systems" : 61,
+
+					"num_particles" : 317,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.797171326 UTC",
+
+					"fps" :  37.79,
+
+					"batches" : [130, 43, 12, 29, 40, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 634, 1616],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 315,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.821582104 UTC",
+
+					"fps" :  37.27,
+
+					"batches" : [130, 43, 12, 29, 39, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 630, 1616],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 324,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.847163709 UTC",
+
+					"fps" :  37.77,
+
+					"batches" : [130, 43, 12, 29, 39, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 648, 1616],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 323,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.876211893 UTC",
+
+					"fps" :  37.20,
+
+					"batches" : [130, 43, 12, 29, 39, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 646, 1616],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 328,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.905580707 UTC",
+
+					"fps" :  36.88,
+
+					"batches" : [130, 43, 12, 29, 39, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 656, 1616],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 335,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.931751091 UTC",
+
+					"fps" :  37.22,
+
+					"batches" : [130, 43, 12, 29, 39, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 670, 1616],
+
+					"num_particle_systems" : 62,
+
+					"num_particles" : 333,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.959550716 UTC",
+
+					"fps" :  37.21,
+
+					"batches" : [130, 43, 12, 29, 38, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 666, 1616],
+
+					"num_particle_systems" : 64,
+
+					"num_particles" : 341,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:10.985457595 UTC",
+
+					"fps" :  37.37,
+
+					"batches" : [130, 43, 12, 29, 39, 9],
+
+					"tris" : [180500, 1626, 24, 19455, 678, 1822],
+
+					"num_particle_systems" : 64,
+
+					"num_particles" : 340,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.013605551 UTC",
+
+					"fps" :  36.87,
+
+					"batches" : [130, 43, 12, 28, 38, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 680, 1822],
+
+					"num_particle_systems" : 66,
+
+					"num_particles" : 343,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.037129546 UTC",
+
+					"fps" :  37.71,
+
+					"batches" : [130, 39, 12, 28, 40, 9],
+
+					"tris" : [180500, 1620, 24, 17679, 686, 1822],
+
+					"num_particle_systems" : 66,
+
+					"num_particles" : 345,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.063558435 UTC",
+
+					"fps" :  35.29,
+
+					"batches" : [130, 39, 12, 30, 43, 9],
+
+					"tris" : [180500, 1620, 24, 21231, 690, 1822],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 349,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.088246663 UTC",
+
+					"fps" :  40.41,
+
+					"batches" : [130, 43, 12, 30, 40, 9],
+
+					"tris" : [180500, 1626, 24, 21231, 698, 1822],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 358,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.114730364 UTC",
+
+					"fps" :  37.65,
+
+					"batches" : [130, 43, 12, 29, 41, 9],
+
+					"tris" : [180500, 1626, 24, 19455, 716, 1822],
+
+					"num_particle_systems" : 64,
+
+					"num_particles" : 364,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.141517600 UTC",
+
+					"fps" :  37.70,
+
+					"batches" : [130, 43, 12, 29, 41, 9],
+
+					"tris" : [180500, 1626, 24, 19455, 728, 1822],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 366,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.172486970 UTC",
+
+					"fps" :  37.77,
+
+					"batches" : [130, 43, 12, 29, 41, 9],
+
+					"tris" : [180500, 1626, 24, 19455, 732, 1822],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 374,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.193701217 UTC",
+
+					"fps" :  37.95,
+
+					"batches" : [130, 43, 12, 29, 41, 9],
+
+					"tris" : [180500, 1626, 24, 19455, 748, 1822],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 376,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.223096506 UTC",
+
+					"fps" :  37.81,
+
+					"batches" : [130, 43, 12, 29, 40, 9],
+
+					"tris" : [180500, 1626, 24, 19455, 752, 1822],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 342,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.248636776 UTC",
+
+					"fps" :  34.91,
+
+					"batches" : [130, 43, 12, 29, 40, 9],
+
+					"tris" : [180500, 1626, 24, 19455, 684, 1822],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 352,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.278886866 UTC",
+
+					"fps" :  40.57,
+
+					"batches" : [130, 43, 12, 29, 42, 9],
+
+					"tris" : [180500, 1626, 24, 19455, 704, 1822],
+
+					"num_particle_systems" : 66,
+
+					"num_particles" : 350,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.304264884 UTC",
+
+					"fps" :  38.03,
+
+					"batches" : [130, 43, 12, 29, 43, 9],
+
+					"tris" : [180500, 1626, 24, 19455, 700, 1822],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 346,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.331625218 UTC",
+
+					"fps" :  37.85,
+
+					"batches" : [130, 43, 12, 30, 41, 8],
+
+					"tris" : [180500, 1626, 24, 21231, 692, 1592],
+
+					"num_particle_systems" : 65,
+
+					"num_particles" : 355,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.357364494 UTC",
+
+					"fps" :  38.26,
+
+					"batches" : [130, 43, 12, 30, 39, 8],
+
+					"tris" : [180500, 1626, 24, 21231, 710, 1592],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 367,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.383013916 UTC",
+
+					"fps" :  38.22,
+
+					"batches" : [130, 43, 12, 30, 41, 8],
+
+					"tris" : [180500, 1626, 24, 21231, 728, 1592],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 368,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.406719748 UTC",
+
+					"fps" :  38.41,
+
+					"batches" : [130, 43, 12, 30, 41, 8],
+
+					"tris" : [180500, 1626, 24, 21231, 736, 1592],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 375,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.432363033 UTC",
+
+					"fps" :  38.39,
+
+					"batches" : [130, 43, 12, 30, 41, 9],
+
+					"tris" : [180500, 1626, 24, 21231, 746, 1822],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 386,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.458383386 UTC",
+
+					"fps" :  37.02,
+
+					"batches" : [130, 43, 12, 30, 41, 9],
+
+					"tris" : [180500, 1626, 24, 21231, 772, 1822],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 391,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.482885724 UTC",
+
+					"fps" :  39.82,
+
+					"batches" : [130, 43, 12, 30, 42, 9],
+
+					"tris" : [180500, 1626, 24, 21231, 782, 1822],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 388,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.509304473 UTC",
+
+					"fps" :  38.31,
+
+					"batches" : [130, 43, 12, 30, 42, 9],
+
+					"tris" : [180500, 1626, 24, 21231, 776, 1822],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 363,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.535394629 UTC",
+
+					"fps" :  38.24,
+
+					"batches" : [130, 43, 12, 29, 41, 9],
+
+					"tris" : [180500, 1626, 24, 19455, 726, 1822],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 365,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.561827229 UTC",
+
+					"fps" :  38.01,
+
+					"batches" : [130, 43, 12, 29, 39, 9],
+
+					"tris" : [180500, 1626, 24, 19455, 730, 1822],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 372,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.588560224 UTC",
+
+					"fps" :  38.15,
+
+					"batches" : [130, 43, 12, 29, 39, 9],
+
+					"tris" : [180500, 1626, 24, 19455, 744, 1822],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 345,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.615279135 UTC",
+
+					"fps" :  38.20,
+
+					"batches" : [130, 43, 12, 29, 40, 9],
+
+					"tris" : [180500, 1626, 24, 19455, 690, 1822],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 346,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.642932891 UTC",
+
+					"fps" :  37.99,
+
+					"batches" : [130, 43, 12, 29, 40, 9],
+
+					"tris" : [180500, 1626, 24, 19455, 692, 1822],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 352,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.666632198 UTC",
+
+					"fps" :  37.47,
+
+					"batches" : [130, 43, 12, 29, 41, 9],
+
+					"tris" : [180500, 1626, 24, 19455, 704, 1822],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 339,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.693179704 UTC",
+
+					"fps" :  38.19,
+
+					"batches" : [130, 43, 12, 29, 40, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 678, 1608],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 336,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.723728821 UTC",
+
+					"fps" :  38.00,
+
+					"batches" : [130, 43, 12, 29, 39, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 672, 1608],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 339,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.745725322 UTC",
+
+					"fps" :  37.51,
+
+					"batches" : [130, 43, 12, 29, 38, 8],
+
+					"tris" : [180500, 1626, 24, 19455, 678, 1608],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 333,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.773159543 UTC",
+
+					"fps" :  37.87,
+
+					"batches" : [130, 43, 12, 28, 35, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 666, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 333,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.799748572 UTC",
+
+					"fps" :  38.21,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 666, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 343,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.828064659 UTC",
+
+					"fps" :  38.35,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 686, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 329,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.853105160 UTC",
+
+					"fps" :  35.57,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 658, 1608],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 332,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.876658150 UTC",
+
+					"fps" :  41.29,
+
+					"batches" : [130, 43, 12, 28, 38, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 664, 1798],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 329,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.907827013 UTC",
+
+					"fps" :  38.35,
+
+					"batches" : [130, 43, 12, 28, 39, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 658, 1798],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 323,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.933234045 UTC",
+
+					"fps" :  38.66,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 646, 1608],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 327,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.960077025 UTC",
+
+					"fps" :  38.28,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 654, 1608],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 333,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:11.985860756 UTC",
+
+					"fps" :  38.56,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 666, 1608],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 336,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.014084398 UTC",
+
+					"fps" :  38.30,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 672, 1608],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 336,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.035483066 UTC",
+
+					"fps" :  37.92,
+
+					"batches" : [130, 39, 12, 28, 40, 8],
+
+					"tris" : [180500, 1620, 24, 17679, 672, 1608],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 345,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.061956381 UTC",
+
+					"fps" :  35.44,
+
+					"batches" : [130, 39, 12, 28, 41, 8],
+
+					"tris" : [180500, 1620, 24, 17679, 690, 1608],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 331,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.087087094 UTC",
+
+					"fps" :  40.28,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 662, 1608],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 308,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.112681860 UTC",
+
+					"fps" :  37.84,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 616, 1608],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 310,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.140157692 UTC",
+
+					"fps" :  37.85,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 620, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 302,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.166836910 UTC",
+
+					"fps" :  37.20,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 604, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 304,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.193270589 UTC",
+
+					"fps" :  38.15,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 608, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 304,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.220813681 UTC",
+
+					"fps" :  37.93,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 608, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 311,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.246400165 UTC",
+
+					"fps" :  37.96,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 622, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 313,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.272070632 UTC",
+
+					"fps" :  38.02,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 626, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 307,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.297878633 UTC",
+
+					"fps" :  37.96,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 614, 1608],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 269,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.324045965 UTC",
+
+					"fps" :  38.07,
+
+					"batches" : [130, 43, 12, 28, 36, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 534, 1838],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 267,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.351385598 UTC",
+
+					"fps" :  37.97,
+
+					"batches" : [130, 43, 12, 28, 35, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 534, 1838],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 277,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.376611731 UTC",
+
+					"fps" :  37.70,
+
+					"batches" : [130, 43, 12, 28, 38, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 554, 1838],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 270,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.409583210 UTC",
+
+					"fps" :  38.02,
+
+					"batches" : [130, 43, 12, 28, 36, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 540, 1838],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 270,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.435741061 UTC",
+
+					"fps" :  37.99,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 540, 1838],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 273,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.460102437 UTC",
+
+					"fps" :  37.41,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 546, 1838],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 266,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.486314780 UTC",
+
+					"fps" :  38.74,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 532, 1838],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 265,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.512687039 UTC",
+
+					"fps" :  38.50,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 530, 1838],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 256,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.533400913 UTC",
+
+					"fps" :  38.74,
+
+					"batches" : [130, 43, 12, 28, 35, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 512, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 263,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.560348336 UTC",
+
+					"fps" :  38.89,
+
+					"batches" : [130, 43, 12, 28, 35, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 526, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 263,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.586100342 UTC",
+
+					"fps" :  38.30,
+
+					"batches" : [130, 43, 12, 28, 34, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 526, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 264,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.611728845 UTC",
+
+					"fps" :  38.70,
+
+					"batches" : [130, 43, 12, 28, 35, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 528, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 264,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.639709854 UTC",
+
+					"fps" :  38.58,
+
+					"batches" : [130, 43, 12, 28, 35, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 528, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 260,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.664309641 UTC",
+
+					"fps" :  38.98,
+
+					"batches" : [130, 43, 12, 28, 35, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 520, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 258,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.691618369 UTC",
+
+					"fps" :  38.69,
+
+					"batches" : [130, 43, 12, 28, 34, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 516, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 269,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.714501777 UTC",
+
+					"fps" :  38.82,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 538, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 271,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.741357681 UTC",
+
+					"fps" :  38.53,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 542, 1608],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 281,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.770181633 UTC",
+
+					"fps" :  39.00,
+
+					"batches" : [130, 43, 12, 28, 38, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 562, 1782],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 285,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.797172753 UTC",
+
+					"fps" :  38.61,
+
+					"batches" : [130, 43, 12, 28, 40, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 570, 1782],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 286,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.822706756 UTC",
+
+					"fps" :  38.54,
+
+					"batches" : [130, 43, 12, 28, 41, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 572, 1782],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 285,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.848994262 UTC",
+
+					"fps" :  38.73,
+
+					"batches" : [130, 43, 12, 28, 38, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 570, 1782],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 289,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.875910533 UTC",
+
+					"fps" :  38.94,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 578, 1782],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 290,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.897284413 UTC",
+
+					"fps" :  36.30,
+
+					"batches" : [130, 43, 12, 28, 38, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 580, 1782],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 294,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.921987423 UTC",
+
+					"fps" :  40.89,
+
+					"batches" : [130, 43, 12, 28, 41, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 588, 1782],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 293,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.947373597 UTC",
+
+					"fps" :  38.56,
+
+					"batches" : [130, 43, 12, 28, 39, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 586, 1782],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 290,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:12.973829377 UTC",
+
+					"fps" :  38.09,
+
+					"batches" : [130, 43, 12, 28, 40, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 580, 1782],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 290,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.001059421 UTC",
+
+					"fps" :  37.63,
+
+					"batches" : [130, 43, 12, 28, 41, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 580, 1782],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 277,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.031146571 UTC",
+
+					"fps" :  38.34,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 554, 1560],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 272,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.061297947 UTC",
+
+					"fps" :  38.11,
+
+					"batches" : [130, 39, 12, 28, 36, 8],
+
+					"tris" : [180500, 1620, 24, 17679, 544, 1560],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 276,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.083318373 UTC",
+
+					"fps" :  38.80,
+
+					"batches" : [130, 39, 12, 28, 38, 8],
+
+					"tris" : [180500, 1620, 24, 17679, 552, 1560],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 282,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.109103492 UTC",
+
+					"fps" :  36.20,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 564, 1560],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 275,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.134237846 UTC",
+
+					"fps" :  41.14,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 550, 1560],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 273,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.156963810 UTC",
+
+					"fps" :  38.92,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 546, 1560],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 282,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.183180376 UTC",
+
+					"fps" :  38.82,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 564, 1560],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 280,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.208318346 UTC",
+
+					"fps" :  38.72,
+
+					"batches" : [130, 43, 12, 28, 39, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 560, 1560],
+
+					"num_particle_systems" : 72,
+
+					"num_particles" : 278,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.233871729 UTC",
+
+					"fps" :  38.63,
+
+					"batches" : [130, 43, 12, 28, 38, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 556, 1758],
+
+					"num_particle_systems" : 72,
+
+					"num_particles" : 282,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.259981535 UTC",
+
+					"fps" :  38.95,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 564, 1758],
+
+					"num_particle_systems" : 71,
+
+					"num_particles" : 279,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.286867102 UTC",
+
+					"fps" :  38.50,
+
+					"batches" : [130, 43, 12, 28, 36, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 558, 1758],
+
+					"num_particle_systems" : 71,
+
+					"num_particles" : 270,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.312140564 UTC",
+
+					"fps" :  39.07,
+
+					"batches" : [130, 43, 12, 28, 37, 9],
+
+					"tris" : [180500, 1626, 24, 17679, 540, 1758],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 266,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.338878179 UTC",
+
+					"fps" :  36.38,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 532, 1608],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 275,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.364276708 UTC",
+
+					"fps" :  40.85,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 550, 1608],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 271,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.393423352 UTC",
+
+					"fps" :  38.52,
+
+					"batches" : [130, 43, 12, 28, 35, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 542, 1608],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 267,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.419121451 UTC",
+
+					"fps" :  38.06,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 534, 1608],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 270,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.445630436 UTC",
+
+					"fps" :  38.55,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 540, 1608],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 270,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.471422327 UTC",
+
+					"fps" :  38.36,
+
+					"batches" : [130, 43, 12, 28, 38, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 540, 1608],
+
+					"num_particle_systems" : 70,
+
+					"num_particles" : 274,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.498067995 UTC",
+
+					"fps" :  38.68,
+
+					"batches" : [130, 43, 12, 28, 35, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 548, 1608],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 269,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.524826675 UTC",
+
+					"fps" :  38.84,
+
+					"batches" : [130, 43, 12, 28, 34, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 538, 1608],
+
+					"num_particle_systems" : 69,
+
+					"num_particles" : 273,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.549283768 UTC",
+
+					"fps" :  38.68,
+
+					"batches" : [130, 43, 12, 28, 36, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 546, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 276,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.574697912 UTC",
+
+					"fps" :  38.27,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 552, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 272,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				},
+
+				{
+
+					"datetime" : "2014-05-30 02:10:13.600273574 UTC",
+
+					"fps" :  39.02,
+
+					"batches" : [130, 43, 12, 28, 37, 8],
+
+					"tris" : [180500, 1626, 24, 17679, 544, 1608],
+
+					"num_particle_systems" : 68,
+
+					"num_particles" : 269,
+
+					"domino_step_ms" :   0.00,
+
+					"num_static_rigid_bodies" : 8,
+
+					"num_kinematic_rigid_bodies" : 6,
+
+					"num_dynamic_rigid_bodies" : 24,
+
+					"num_awake_bodies" : 23,
+
+					"Main Thread bound" : "0",
+
+					"GPU bound" : "1"
+
+				}
+
+			]
+
+		}
+
+
+
+	]
+
+}
